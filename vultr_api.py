@@ -1,4 +1,4 @@
-#!/home/luciano/Documents/scripts/venv/vultr_api/bin/python3
+#!/usr/bin/python3
 
 #####################
 #####  imports  #####
